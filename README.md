@@ -1,7 +1,7 @@
 # login-register
 登录| 注册框页面
 
-# 技术
+# 技术   
 * HTML+CSS+CSS3
 * 使用事件绑定和事件冒泡处理交互问题
 
