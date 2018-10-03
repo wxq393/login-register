@@ -20,3 +20,6 @@
 * 登录注册图标 上传github线上展示时，出现http和https的问题，图标未展示出来
 
 解决：将图标的路径中的http改为https，图标展示问题解决
+
+### 图片展示
+![](http://wx3.sinaimg.cn/mw690/0060lm7Tly1fv9i713iauj31kw0wsgw9.jpg)
